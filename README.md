@@ -1,1 +1,8 @@
-
+# required libraries
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
